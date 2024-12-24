@@ -48,14 +48,14 @@ To verify these results and experience the capabilities of Chat2Query yourself, 
 
 - [Chat2Query: A Zero-Shot Automatic Exploratory Data Analysis System with Large Language Models](https://ieeexplore.ieee.org/abstract/document/10597681)
 
-- [Towards Automated Cross-domain Exploratory Data Analysisthrough Large Language Models](https://arxiv.org/pdf/2412.07214)
+- [Towards Automated Cross-domain Exploratory Data Analysis through Large Language Models](https://arxiv.org/pdf/2412.07214)
 
 
-If you're interested in the papers, feel free to contact us via email: junpeng.zhu@pingcap.com. We look forward to hearing from you!
+If you're interested in the papers, please get in touch with us via email: junpeng.zhu@pingcap.com. We look forward to hearing from you!
 
 ## Citation
 
-Feel free to cite us if you find the following papers helpful.
+Please feel free to cite us if you think the following papers are helpful.
 
 ```bibtex
 @inproceedings{zhu2024chat2query,
@@ -70,13 +70,10 @@ Feel free to cite us if you find the following papers helpful.
 
 
 ```bibtex
-@misc{zhu2024automatedcrossdomainexploratorydata,
-      title={Towards Automated Cross-domain Exploratory Data Analysis through Large Language Models}, 
-      author={Jun-Peng Zhu and Boyan Niu and Peng cai and Zheming Ni and Jianwei Wan and Kai Xu and Jiajun Huang and Shengbo Ma and Bing Wang and Xuan Zhou and Guanglei Bao and Donghui Zhang and Liu Tang and Qi Liu},
-      year={2024},
-      eprint={2412.07214},
-      archivePrefix={arXiv},
-      primaryClass={cs.DB},
-      url={https://arxiv.org/abs/2412.07214}, 
+@article{zhu2024towards,
+  title={Towards Automated Cross-domain Exploratory Data Analysis through Large Language Models},
+  author={Zhu, Jun-Peng and Niu, Boyan and Cai, Peng and Ni, Zheming and Wan, Jianwei and Xu, Kai and Huang, Jiajun and Ma, Shengbo and Wang, Bing and Zhou, Xuan and Bao, Guanglei and others},
+  journal={arXiv preprint arXiv:2412.07214},
+  year={2024}
 }
 ```
