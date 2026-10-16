@@ -60,10 +60,7 @@ export class TokenEncryptor {
 }
 
 const MasterKeys = {
-  0: Buffer.from(
-    process.env.MASTER_KEY_V0! ??
-      "dcde025d4ab87b75fc2080ffafaf752af66204be9b944f84f449d93553000afa", // for test
-  ),
+  0: Buffer.from(process.env.MASTER_KEY_V0!),
 };
 
 const encryptors = {
